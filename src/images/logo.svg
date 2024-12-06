@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <!-- Cercle pour le fond -->
+    <circle cx="100" cy="100" r="95" fill="#1E90FF" />
+    <!-- Soleil -->
+    <circle cx="100" cy="60" r="30" fill="#FFD700" />
+    <!-- Planche de surf élargie -->
+    <path d="M85,50 Q62,100 85,150 Q110,100 85,50 Z" fill="#FF8C00" />
+    <line x1="85" y1="50" x2="85" y2="150" stroke="#FFFFFF" stroke-width="2" />
+    <!-- Vague stylisée -->
+    <path d="M30,160 Q60,130 100,160 Q140,190 170,160" fill="none" stroke="#FFFFFF" stroke-width="4" />
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+    <!-- Fond -->
+    <rect width="800" height="200" fill="#87CEEB" />
+    <!-- Soleil -->
+    <circle cx="700" cy="50" r="40" fill="#FFD700" />
+    <!-- Plage -->
+    <path d="M0,150 Q200,130 400,150 Q600,170 800,150 L800,200 L0,200 Z" fill="#F4A460" />
+    <!-- Vagues -->
+    <path d="M0,130 C100,110 300,110 400,130 C500,150 700,150 800,130 L800,150 L0,150 Z" fill="#1E90FF" opacity="0.7" />
+    <path d="M0,140 C150,120 350,120 500,140 C650,160 800,160 800,140 L800,150 L0,150 Z" fill="#00BFFF" opacity="0.5" />
+    <!-- Palmiers -->
+    <path d="M100,90 L110,90 L105,150 Z" fill="#8B4513" />
+    <circle cx="105" cy="80" r="30" fill="#228B22" />
+    <circle cx="85" cy="85" r="20" fill="#228B22" />
+    <circle cx="125" cy="85" r="20" fill="#228B22" />
+</svg>
